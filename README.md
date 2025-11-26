@@ -12,10 +12,10 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=huuxuan22&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
+### Random Dev Meme
 <img src="[https://random-memer.herokuapp.com/](https://tse4.mm.bing.net/th/id/OIP.2oQ7AYl0HqweAVRe14D_RAHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3)" width="512px"/>
 
 ---
